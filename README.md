@@ -5,7 +5,7 @@
 * [Informacje ogólne](#informacje-ogólne)
 * [Używane technologie](#używane-technologie)
 * [Funkcje](#funkcje)
-* [Konfiguracja](#ustawienia)
+* [Konfiguracja](#konfiguracja)
   
 ## Informacje ogólne
 - **Problem Solved**: Provides a virtual casino experience for users to practice roulette strategies without financial risk.
