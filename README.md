@@ -37,5 +37,7 @@
 - .NET Framework 4.7.2 lub nowszy
 - Visual Studio 2019 (opcjonalnie do edycji)
    **Instalacja**:
+
+
    ```bash
    git clone https://github.com/Mordorlen/Projekt.git
