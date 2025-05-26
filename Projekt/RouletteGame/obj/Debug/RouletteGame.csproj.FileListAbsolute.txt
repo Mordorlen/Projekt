@@ -1,0 +1,11 @@
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\bin\Debug\RouletteGame.exe.config
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\bin\Debug\RouletteGame.exe
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\bin\Debug\RouletteGame.pdb
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\obj\Debug\RouletteGame.csproj.AssemblyReference.cache
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\obj\Debug\RouletteGame.Properties.Resources.resources
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\obj\Debug\RouletteGame.RouletteForm.resources
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\obj\Debug\RouletteGame.csproj.GenerateResource.cache
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\obj\Debug\RouletteGame.csproj.CoreCompileInputs.cache
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\obj\Debug\RouletteGame.exe
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\obj\Debug\RouletteGame.pdb
+C:\Users\mysz3\source\repos\Projekt\RouletteGame\obj\Debug\RouletteGame.exe.config
