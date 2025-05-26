@@ -33,7 +33,7 @@
 - Saldo początkowe: 1000 USD
 - Automatyczne wyłączenie przy zerowym saldzie
 
-## Konfiguracja. 
+## Konfiguracja 
 **Wymagania**:
 - .NET Framework 4.7.2 lub nowszy
 - Visual Studio 2019 (opcjonalnie do edycji)
