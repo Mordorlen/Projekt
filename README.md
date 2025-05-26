@@ -8,9 +8,8 @@
 * [Konfiguracja](#konfiguracja)
   
 ## Informacje ogólne
-- **Problem Solved**: Provides a virtual casino experience for users to practice roulette strategies without financial risk.
-- **Purpose**: Designed as an educational/entertainment tool to demonstrate Windows Forms development and game logic.
-- **Motivation**: Created to explore C# GUI programming, event handling, and randomization techniques.
+- **Cel**: Zaprojektowano jako narzędzie edukacyjne/rozrywkowe do demonstracji tworzenia formularzy Windows i logiki gry.
+- **Motywacja**: Stworzono, aby poznać programowanie interfejsu graficznego C#, obsługę zdarzeń i techniki randomizacji.
 
 ## Używane technologie
 - **C#** (.NET Framework)
