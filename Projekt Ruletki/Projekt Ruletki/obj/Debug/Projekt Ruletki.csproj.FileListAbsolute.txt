@@ -1,0 +1,10 @@
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\obj\Debug\Projekt Ruletki.csproj.AssemblyReference.cache
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\obj\Debug\Projekt_Ruletki.Properties.Resources.resources
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\obj\Debug\Projekt Ruletki.csproj.GenerateResource.cache
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\obj\Debug\Projekt Ruletki.csproj.CoreCompileInputs.cache
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\bin\Debug\Projekt Ruletki.exe.config
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\bin\Debug\Projekt Ruletki.exe
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\bin\Debug\Projekt Ruletki.pdb
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\obj\Debug\Projekt Ruletki.exe
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\obj\Debug\Projekt Ruletki.pdb
+C:\Users\mysz3\source\repos\Projekt Ruletki\Projekt Ruletki\obj\Debug\Projekt Ruletki.exe.config
