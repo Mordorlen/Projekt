@@ -38,4 +38,4 @@
 - Visual Studio 2019 (opcjonalnie do edycji)
    **Instalacja**:
    ```bash
-   git clone https://github.com/Mordorlen/roulette-game.git
+   git clone https://github.com/Mordorlen/Projekt.git
